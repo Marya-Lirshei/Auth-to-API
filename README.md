@@ -1,8 +1,0 @@
-# Registration
-
-
-# Authorization
-
-
-# Get
-
